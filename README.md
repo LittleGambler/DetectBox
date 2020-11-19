@@ -4,4 +4,4 @@ This is a project to detect boxes in the sense.
 cmake  
 pcl  
 opencv  
-RGBDCramer——Xiton  
+RGBDCamera——Xiton  
